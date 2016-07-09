@@ -1,0 +1,21 @@
+{
+  "name": "graficasArduino",
+  "authors": [
+    "jjbravo <bramasterweb@gmail.com>"
+  ],
+  "description": "graficando con arduino",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Chart.js": "^2.1.5",
+    "socket.io":"1.4.6"
+  }
+}
